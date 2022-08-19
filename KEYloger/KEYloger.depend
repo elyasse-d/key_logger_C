@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1516380310 source:d:\partichen e\kl\keyloger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+
+1516373099 d:\partichen e\kl\keyloger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1516373192 d:\partichen e\kl\keyloger\keyconstants.h
+	<map>
+	<string>
+
+1516373486 d:\partichen e\kl\keyloger\base64.h
+	<vector>
+	<string>
+
+1516376199 d:\partichen e\kl\keyloger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1516381738 d:\partichen e\kl\keyloger\timer.h
+	<thread>
+	<chrono>
+
